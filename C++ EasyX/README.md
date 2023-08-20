@@ -1,4 +1,4 @@
-# C++ 游戏开发入门
+# C++ EasyX 游戏开发入门
 
 > For BUAA 2023 Summer Semester
 >
