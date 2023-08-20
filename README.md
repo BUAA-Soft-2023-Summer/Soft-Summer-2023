@@ -35,7 +35,7 @@
 | 聂睿   | [Abyss](https://github.com/Abyss7893)                        | Java 游戏开发；Web 后端开发                              |
 | 李昊   | [Hao](https://github.com/orgs/BUAA-Soft-2023-Summer/people/LLLeoLi) | Web 前端开发                                             |
 | 高嘉轩 | [XenonGa](https://github.com/orgs/BUAA-Soft-2023-Summer/people/XenonGa) | Python pygame 开发；Web 前端开发                         |
-| 胡斌   |                                                              |                                                          |
+| 胡斌   | [yizhiqianbi](https://github.com/orgs/BUAA-Soft-2023-Summer/people/yizhiqianbi) |                                                          |
 | 张文津 | [JQKonatsu](https://github.com/orgs/BUAA-Soft-2023-Summer/people/Netsh-f) | Android app 开发；Django Web 后端                        |
 | 刘奕哲 | [BigBigZhe](https://github.com/orgs/BUAA-Soft-2023-Summer/people/BigBigZhe) | Android；Java；OpenGL                                    |
 | 王䶮堃 | [MAKIMA](https://github.com/orgs/BUAA-Soft-2023-Summer/people/Hathoric) | Web 开发；微信小程序开发                                 |
