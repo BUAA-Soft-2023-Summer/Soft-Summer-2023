@@ -211,8 +211,7 @@ while running:
 
     pygame.display.flip()
 
-    clock.tick(60)
-    dt = 0.01
+    dt = clock.tick(60) / 1000
 
 pygame.quit()
 ```
