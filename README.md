@@ -18,12 +18,12 @@
 
 ## 2.1 教师
 
-| 姓名   | GitHub 昵称   |
-| :----- | :------------ |
-| 黄坚   | huangjianbuaa |
-| 宋友   | songyou21     |
-| 路新喜 | laneseal      |
-| 周号益 | Haoyi         |
+| 姓名   | GitHub 昵称                                                  |
+| :----- | :----------------------------------------------------------- |
+| 黄坚   | [huangjianbuaa](https://github.com/orgs/BUAA-Soft-2023-Summer/people/huangjianbuaa) |
+| 宋友   | [songyou21](https://github.com/songyou21)                    |
+| 路新喜 | [laneseal](https://github.com/laneseal)                      |
+| 周号益 | [Haoyi](https://github.com/orgs/BUAA-Soft-2023-Summer/people/zhouhaoyi) |
 
 ## 2.2 助教
 
