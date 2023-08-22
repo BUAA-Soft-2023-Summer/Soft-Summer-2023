@@ -283,7 +283,7 @@ while True:
 ```python
 background_surface = pygame.image.load('background.jpg')
 player_surface = pygame.image.load('Tighnari.png')
-enemy_surface = pygame.image.load('Sai Noi.png')、
+enemy_surface = pygame.image.load('Sai Noi.png')
 
 screen.blit(background_surface, (0, 0))
 screen.blit(enemy_surface, (enemy_x, enemy_y))
